@@ -1,5 +1,5 @@
-# Hi, I'm Arnav! 👋
-🖥️ Software developer sharing my journey and learnings in tech<br/><br>🎓 Currently exploring **Flask** and API building with Python<br/>💻 Experienced with **Python**, **JavaScript**, **MySQL**, and general problem-solving<br/>🌱 #learninginpublic and building small projects to strengthen my skills<br/>⚡ Fun fact: I love solving coding challenges and optimizing solutions<br/>
+# 👋 Hi, I'm Arnav!
+🖥️ Software developer sharing my journey and learnings in tech<br/>🎓 Currently exploring **Flask** and API building with Python<br/>💻 Experienced with **Python**, **JavaScript**, **MySQL**, and general problem-solving<br/>🌱 #learninginpublic and building small projects to strengthen my skills<br/>
 
 
 # 💻 Tech Stack
